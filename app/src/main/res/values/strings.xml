@@ -1,0 +1,7 @@
+<resources>
+    <string name="title_hint">Title</string>
+    <string name="content_hint">Content</string>
+    <string name="app_name">Simple Notes</string>
+    <string name="add_new_note">Add new note</string>
+    <!-- Any other string resources you have should go here as well -->
+</resources>
