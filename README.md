@@ -20,10 +20,8 @@ Welcome to SimpleNotes, a minimalist note-taking app for Android. SimpleNotes br
 **Clone this repository and import it into Android Studio to get started.**
 
 
-'''
-  git clone https://github.com/MatinMollapir01/Simple-Notes.git
-  
-'''
+git clone https://github.com/MatinMollapir01/Simple-Notes.git
+
 ## Contributing
 We welcome contributions of all kinds. From bug fixes to feature enhancements, UI tweaks, and performance improvements, every effort counts, and we appreciate your help in making SimpleNotes better.
 
